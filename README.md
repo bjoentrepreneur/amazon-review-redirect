@@ -28,8 +28,8 @@ The `geoRedirect` function:
 1. Clone the repository:
 
    ```bash
-   git clone [Your Repository URL]
-   cd [Your Repository Directory]
+   git clone https://github.com/bjoentrepreneur/amazon-review-redirect.git
+   cd amazon-review-redirect
    ```
 
 2. Navigate to the functions directory:
